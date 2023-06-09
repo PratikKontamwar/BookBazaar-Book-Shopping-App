@@ -1,0 +1,15 @@
+ul {
+    display: flex;
+    /* flex-wrap: wrap; */
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* .book {
+    list-style: none;
+    text-align: center;
+    text-overflow: ellipsis;
+    width: 25%;
+    cursor: pointer;
+} */
